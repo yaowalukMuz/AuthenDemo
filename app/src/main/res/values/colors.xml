@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="header">#CC181E</color>
+    <color name="white">#424F5A</color>
+    <color name="black">#ff000000</color>
+    <color name="tranparency">#00000000</color>
+    <color name="green_apple">#A2DD34</color>
+    <color name="background">#A2DD34</color>
+    <color name="pink">#EA9FBD</color>
 </resources>
